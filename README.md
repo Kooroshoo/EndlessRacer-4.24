@@ -1,6 +1,6 @@
 # EndlessRacer
 
-Developed with Unreal Engine 4
+Developed with Unreal Engine 4 (Ver. 4.24)
 
 A simple endless racer game created with Unreal Engine 4 as part of a university project.
 
