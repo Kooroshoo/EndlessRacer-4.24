@@ -8,11 +8,18 @@ A simple endless racer game created with Unreal Engine 4 as part of a university
 Create an endless racer with upgrades! Combine “Advanced vehicle” startup project with endless runner technique.
 
 Baseline requirements:
-[R1]			You can drive endlessly.
-[R2]			You drive in “space” so if you fall off the road, you’re busted.
-[R3]			There are at least 5 different blocks you’re composing the race track
-of.
-[R3]			Some space skybox.
-[R4]			You can collect coins while driving.
-[R5]			Temporary coin (score) - multiplier pickup.
+<ul>
+<li>[R1]			You can drive endlessly.</li>
+<li>[R2]			You drive in “space” so if you fall off the road, you’re busted.</li>
+<li>[R3]			There are at least 5 different blocks you’re composing the race track of.</li>
+<li>[R3]			Some space skybox.</li>
+<li>[R4]			You can collect coins while driving.</li>
+<li>[R5]			Temporary coin (score) - multiplier pickup.</li>
+</ul>
+
+
+
+
+
+
 
