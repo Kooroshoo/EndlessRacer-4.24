@@ -1,5 +1,5 @@
 # EndlessRacer
-
+<p style='text-align: justify;'>
 Developed with Unreal Engine 4 (Ver. 4.24)
 
 A simple endless racer game created with Unreal Engine 4 as part of a university project.
@@ -18,4 +18,4 @@ of.
 [R4]			You can collect coins while driving.
 [R5]			Temporary coin (score) - multiplier pickup.
 
-<p style='text-align: justify;'> Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text </p>
+</p>
