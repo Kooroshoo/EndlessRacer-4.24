@@ -17,3 +17,5 @@ of.
 [R3]			Some space skybox.
 [R4]			You can collect coins while driving.
 [R5]			Temporary coin (score) - multiplier pickup.
+
+<p style='text-align: justify;'> Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text Your Text </p>
